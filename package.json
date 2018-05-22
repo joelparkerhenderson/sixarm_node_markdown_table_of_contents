@@ -1,0 +1,41 @@
+{
+  "name": "sixarm_node_markdown_table_of_contents",
+  "version": "1.0.0",
+  "description": "SixArm.com → Node → Markdown → table of contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --use_strict"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixarm/sixarm_node_markdown_table_of_contents.git"
+  },
+  "keywords": [
+    "sixarm",
+    "node",
+    "npm",
+    "markdown",
+    "md",
+    "table",
+    "of",
+    "contents",
+    "toc",
+    "md"
+  ],
+  "author": "Joel Parker Henderson (joel@joelparkerhenderson.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sixarm/sixarm_node_markdown_table_of_contents/issues"
+  },
+  "homepage": "https://github.com/sixarm/sixarm_node_markdown_table_of_contents#readme",
+  "directories": {
+    "bin": "bin",
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
